@@ -78,6 +78,7 @@ export const Section = styled.div`
         display: flex;
         flex-direction: column;
 
+        /* a partir do primeiro span */
         > span + span{
         margin-top: 16px;
         }
