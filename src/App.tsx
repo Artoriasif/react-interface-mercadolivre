@@ -12,3 +12,5 @@ function App() {
 }
 
 export default App;
+
+// desafios: responsividade e detalhes que ainda faltam
